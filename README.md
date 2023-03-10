@@ -19,7 +19,7 @@ I’ve evaluated for the calculation: A (1024 x 1024) x B (1024 x 1024) = C (102
 	Host to Device: 8ms
 	Kernel: 147ms
 	Device to Host: 6ms
-- Pinned memory
+- Pinned memory 
 	Host to Device: 6 ms
 	Kernel: 147ms
 	Device to Host: 3ms
